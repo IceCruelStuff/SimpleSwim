@@ -1,0 +1,6 @@
+name: SimpleSwim
+main: SimpleSwim\Main
+version: 1.0.0
+api: 3.1.0
+author: TheDeibo
+description: A Simple Swimming plugin!
