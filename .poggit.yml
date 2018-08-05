@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TheDeibo/SimpleSwim
+branches:
+- master
+projects:
+  SimpleSwim:
+    path: ""
+...
